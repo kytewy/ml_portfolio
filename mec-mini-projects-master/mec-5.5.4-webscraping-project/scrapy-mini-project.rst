@@ -3,6 +3,7 @@
 ===================
 Scrapy Mini Project
 ===================
+https://docs.scrapy.org/en/latest/intro/tutorial.html
 
 This mini-project is simply a tutorial on how to build scrapy spiders, and is 
 for most part a copy of the original excellent tutorial available at: `<https://docs.scrapy.org/en/latest/intro/tutorial.html>`_
